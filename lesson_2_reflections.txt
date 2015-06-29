@@ -1,0 +1,6 @@
+How's the staging area different from the working directory and the repository?
+The staging area is where you put the files that need to be tracked. It doesn't necessarily have all the files from the working directory and repository. Furthermore, the working directory and repository are physical places while staging area is a virtual place where changes to your files are being tracked.
+
+
+What do you think it offers?
+It offers a way to isolate the files that we are interested in tracking for a given commit, or working session.
