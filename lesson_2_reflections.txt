@@ -11,3 +11,12 @@ I can only add the files where I'm making changes.
 # What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Branches are helpful when you want to explore new features in your code, or when you want to fix a bug.
 
+# How do the diagrams help you visualize the branch structure?
+They let me know the timeline of the creation of the commits, as well as the ancestry of all the commits. It also helps me navigate through commits when I want to go back to a former state of the code.
+
+# What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It merges the commits created by two branches. The merge in the diagram represents the joint of all the commits that conform the new branch.
+
+# What are the pros and cons of Git's automatic mergin vs. always doing merges manually?
+Pros: Fast
+Cons: Sometimes there could be conflicts
