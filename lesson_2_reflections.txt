@@ -17,6 +17,7 @@ They let me know the timeline of the creation of the commits, as well as the anc
 # What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 It merges the commits created by two branches. The merge in the diagram represents the joint of all the commits that conform the new branch.
 
+
 # What are the pros and cons of Git's automatic mergin vs. always doing merges manually?
 Pros: Fast
 Cons: Sometimes there could be conflicts
