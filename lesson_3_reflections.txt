@@ -9,3 +9,12 @@ I would like to control when to synchronize the local and remote repositories. A
 # Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 A fork is a clone of a repository on Github. A clone is an exact copy of a repository, and a branch is a label of a commit.
+
+# What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It allows git to compare how ahead, behind, or out of sync my local repository is from the remote repository.
+
+# How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Without Git or Github, I would collaborate through sharing files via emails and/or usb drives.
+It would be easier to keep a visual track of the previous versions, however, that would be overwhelming over time if there are many changes in the files.
